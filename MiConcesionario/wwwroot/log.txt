@@ -1,0 +1,71 @@
+::1 - 30/11/2023 10:54:15 -  /api/Clientes - GET
+
+::1 - POST - /api/Clientes - 30/11/2023 10:54:29 - Bloqueado
+::1 - POST - /api/Coches - 30/11/2023 10:55:58 - Bloqueado
+::1 - 30/11/2023 10:56:03 -  /api/Coches - GET
+
+::1 - 30/11/2023 10:56:08 -  /api/Coches - GET
+
+::1 - 30/11/2023 10:56:48 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:01:40 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:02:14 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:05:56 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:08:08 -  /api/Ventas - GET
+
+::1 - POST - /api/Ventas - 30/11/2023 11:08:25 - Bloqueado
+::1 - 30/11/2023 11:10:00 -  /api/Coches - PUT
+
+::1 - 30/11/2023 11:10:13 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:23:48 -  /api/Coches - GET
+
+::1 - 30/11/2023 11:25:11 -  /api/Clientes - GET
+
+::1 - 30/11/2023 11:25:32 -  /api/Clientes - GET
+
+::1 - 30/11/2023 11:56:45 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 11:57:42 -  /api/Clientes - GET
+
+::1 - 30/11/2023 11:58:32 -  /api/Usuario/hash/nuevousuario - POST
+
+::1 - 30/11/2023 11:58:54 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 30/11/2023 11:59:17 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:02:29 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:03:17 -  /api/Usuario/hash/nuevousuario - POST
+
+::1 - 30/11/2023 12:03:41 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 30/11/2023 12:03:54 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 30/11/2023 12:04:07 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 30/11/2023 12:04:16 -  /api/Usuario/hash/checkusuario - GET
+
+::1 - 30/11/2023 12:04:36 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:05:42 -  /api/Usuario/hash/checkusuario - POST
+
+::1 - 30/11/2023 12:13:51 -  /api/Coches - GET
+
+::1 - 30/11/2023 12:13:57 -  /api/Clientes - GET
+
+::1 - 30/11/2023 12:14:10 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:15:11 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:15:43 -  /api/Auth/login - POST
+
+::1 - 30/11/2023 12:16:59 -  /api/Clientes - GET
+
+::1 - 30/11/2023 12:17:08 -  /api/Coches - GET
+
+::1 - 30/11/2023 12:17:14 -  /api/Ventas - GET
+
